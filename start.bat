@@ -1,2 +1,2 @@
 @echo off
-python Server.py > logs/latest.txt 2>&1
+python Host.py > logs/latest.txt 2>&1
